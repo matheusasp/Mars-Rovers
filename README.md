@@ -31,7 +31,7 @@ npm install esm
 
 - Run:
   
-http-server on the terminal of the root folder of the project  
+http-server on the terminal of the root folder of the project and go to http://127.0.0.1:8080/src/
 
 
 - Simulation Workflow
