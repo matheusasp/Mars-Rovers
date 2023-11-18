@@ -30,6 +30,7 @@ npm install --save-dev jest
 npm install esm
 
 - Run:
+  
 http-server on the terminal of the root folder of the project  
 
 
